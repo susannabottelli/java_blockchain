@@ -1,2 +1,2 @@
 # java_blockchain
-Blockchain implementation with Java.
+Blockchain Demo implementation with Java.
